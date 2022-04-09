@@ -9,6 +9,18 @@
 
 📧 How to reach me : shrikrishna2002umbare@gmail.com
 
+### My Stats
+
+
+[![Shrikrishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=shri142&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shri142&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/0-shubham-0/count.svg" />
+</p>
+
 
 ### Connect with me:
 
