@@ -19,9 +19,11 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.hackerrank.com/lovelyvarshney22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a>
+### Connect with me
+
+[<img align="left" alt="shrikrishna umbare | hackerrank" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" />][hackerrank]
+
+[hackerrank]: https://www.hackerrank.com/shrikrishna42
 
 
 [<img align="left" alt="shrikrishna umbare | Linkedin" width="22px" src="https://www.iconsdb.com/icons/preview/white/linkedin-3-xxl.png" />][linkedin]
