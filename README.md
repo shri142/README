@@ -24,7 +24,7 @@
 
 **Talk to me about:**
 
-C / Java / Python / Unity / Cyber Security / Linux / Nessus / Burp Suite / Zap / Sql / Computer Networking / 
+C / Java / Python / C# / Unity / Cyber Security / Linux / Nessus / Burp Suite / Zap / Sql / Computer Networking / 
 
 
 
