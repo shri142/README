@@ -17,12 +17,18 @@
 <a href="https://unity.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/> </a>  
 </p>
 
-### Connect with me:
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.hackerrank.com/lovelyvarshney22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a>
 
 
 [<img align="left" alt="shrikrishna umbare | Linkedin" width="22px" src="https://www.iconsdb.com/icons/preview/white/linkedin-3-xxl.png" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/shrikrishna-umbare-6ba376216/
+
+
 
 
 
@@ -40,7 +46,8 @@
 </p>
 
 
-### social media
+
+
 [<img align="left" alt="shrikrishna umbare | Instagram" width="22px" src="https://www.edigitalagency.com.au/wp-content/uploads/new-instagram-logo-white-border-icon-png-large.png" />][instagram]
 
 
