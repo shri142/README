@@ -42,14 +42,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shri142&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/shri142/count.svg" />
-</p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shri142&"/></p>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/shri142/count.svg" />
+</p>
 
 
 
