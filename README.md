@@ -1,11 +1,9 @@
 # README
 ### Hey 👋, Welcome to my GitHub 
 
-👋 Hello!! This is Shrikrishna umbare
+👋 Hello!! This is Shrikrishna umbare 👀
 
 🌱 I’m a SE COMPS student and currently learning Ethical hacking.
-
-👀 I’m looking forwoard to collaborate.
 
 📧 How to reach me : shrikrishna2002umbare@gmail.com
 
