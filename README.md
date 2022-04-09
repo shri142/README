@@ -14,8 +14,18 @@
 <p align="left"> 
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://unity.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="python" width="40" height="40"/> </a>  
+<a href="https://unity.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/> </a>  
 </p>
+
+### Connect with me:
+
+
+[<img align="left" alt="shrikrishna umbare | Linkedin" width="22px" src="https://www.iconsdb.com/icons/preview/white/linkedin-3-xxl.png" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/shrikrishna-umbare-6ba376216/
+
+
+
 
 ### My Stats
 
@@ -30,16 +40,12 @@
 </p>
 
 
-### Connect with me:
-
-
-[<img align="left" alt="shrikrishna umbare | Linkedin" width="22px" src="https://www.iconsdb.com/icons/preview/white/linkedin-3-xxl.png" />][linkedin]
+### social media
 [<img align="left" alt="shrikrishna umbare | Instagram" width="22px" src="https://www.edigitalagency.com.au/wp-content/uploads/new-instagram-logo-white-border-icon-png-large.png" />][instagram]
 
 
 
 [instagram]: https://www.instagram.com/shri__krishna__142/
-[linkedin]: https://www.linkedin.com/in/shrikrishna-umbare-6ba376216/
 
 
 
