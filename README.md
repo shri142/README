@@ -1,7 +1,7 @@
 # README
 ### Hey 👋, Welcome to my GitHub 
 
-👋 Hello!! This is Shubham Talawadekar
+👋 Hello!! This is Shrikrishna umbare
 
 🌱 I’m a SE COMPS student and currently learning Unity, Ethical hacking and Java.
 
