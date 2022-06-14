@@ -3,7 +3,7 @@
 
 👋 Hello!! This is Shrikrishna umbare 👀
 
-🌱 I’m a SE COMPS student and currently learning Ethical hacking.
+🌱 I’m a TE COMPS student and currently learning Ethical hacking.
 
 📧 How to reach me : shrikrishna2002umbare@gmail.com
 
