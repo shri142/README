@@ -1,5 +1,5 @@
 # README
-### Hey 👋, Welcome to my GitHub 
+### Welcome to my GitHub 
 
 👋 Hello!! This is Shrikrishna umbare 👀
 
