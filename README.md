@@ -22,7 +22,7 @@
 
 **Talk to me about:**
 
-C / Java / Python / C# / Unity / Cyber Security / Linux / Nessus / Burp Suite / Zap / Sql / Computer Networking / VAPT / Web App testing
+C / c++ / Python / C# / Unity / Cyber Security / Linux / Nessus / Burp Suite / Zap / Sql / Computer Networking / VAPT / Web App testing / TryHackMe
 
 
 
