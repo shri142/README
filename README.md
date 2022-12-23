@@ -27,10 +27,10 @@ C / c++ / C# / Unity / Cyber Security / Linux / Nessus / Burp Suite / Zap / Sql 
 
 
 ### Connect with me
-
+<!-- 
 [<img align="left" alt="shrikrishna umbare | hackerrank" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" />][hackerrank]
 
-[hackerrank]: https://www.hackerrank.com/shrikrishna42
+[hackerrank]: https://www.hackerrank.com/shrikrishna142 -->
 
 
 [<img align="left" alt="shrikrishna umbare | Linkedin" width="22px" src="https://www.iconsdb.com/icons/preview/white/linkedin-3-xxl.png" />][linkedin]
