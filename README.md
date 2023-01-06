@@ -37,14 +37,10 @@ C / c++ / C# / Unity / Cyber Security / Linux / Nessus / Burp Suite / Zap / Sql 
 
 [linkedin]: https://www.linkedin.com/in/shrikrishna-umbare-6ba376216/
 [<img align="left" alt="shrikrishna umbare | Instagram" width="22px" src="https://www.edigitalagency.com.au/wp-content/uploads/new-instagram-logo-white-border-icon-png-large.png" />][instagram]
-[instagram]: https://www.instagram.com/shri__krishna__142/
 
 
 
-
-
-
-### My Stats
+<!-- ### My Stats
 
 
 [![Shrikrishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=shri142&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -53,7 +49,7 @@ C / c++ / C# / Unity / Cyber Security / Linux / Nessus / Burp Suite / Zap / Sql 
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shri142&"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shri142&"/></p> -->
 
 <p align="center"> 
   Visitor count<br>
