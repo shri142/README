@@ -36,6 +36,8 @@ C / c++ / C# / Unity / Cyber Security / Linux / Nessus / Burp Suite / Zap / Sql 
 [<img align="left" alt="shrikrishna umbare | Linkedin" width="22px" src="https://www.iconsdb.com/icons/preview/white/linkedin-3-xxl.png" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/shrikrishna-umbare-6ba376216/
+[<img align="left" alt="shrikrishna umbare | Instagram" width="22px" src="https://www.edigitalagency.com.au/wp-content/uploads/new-instagram-logo-white-border-icon-png-large.png" />][instagram]
+[instagram]: https://www.instagram.com/shri__krishna__142/
 
 
 
@@ -60,11 +62,11 @@ C / c++ / C# / Unity / Cyber Security / Linux / Nessus / Burp Suite / Zap / Sql 
 
 
 
-[<img align="left" alt="shrikrishna umbare | Instagram" width="22px" src="https://www.edigitalagency.com.au/wp-content/uploads/new-instagram-logo-white-border-icon-png-large.png" />][instagram]
 
 
 
-[instagram]: https://www.instagram.com/shri__krishna__142/
+
+
 
 
 
