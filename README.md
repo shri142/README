@@ -39,12 +39,12 @@ C / c++ / C# / Unity / Cyber Security / Linux / Nessus / Burp Suite / Zap / Sql 
 [<img align="left" alt="shrikrishna umbare | Instagram" width="22px" src="https://www.edigitalagency.com.au/wp-content/uploads/new-instagram-logo-white-border-icon-png-large.png" />]
 
 
-<!-- ### My Stats
+### My Stats
 
 
 [![Shrikrishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=shri142&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shri142&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shri142&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
